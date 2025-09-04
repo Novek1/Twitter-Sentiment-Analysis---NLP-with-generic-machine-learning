@@ -36,7 +36,7 @@ This project aims to classify X posts (tweets) into **positive**, **negative**, 
 - Train and evaluate multiple models:
   - Naive Bayes  
   - K-Nearest Neighbors (KNN)  
-  - Support Vector Classifier (SVC)  
+  - Linear Support Vector Classifier (SVC)  
 - Compare model performance  
 - Easy-to-use pipeline for new data  
 
